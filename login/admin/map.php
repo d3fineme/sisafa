@@ -32,44 +32,50 @@
         <ul class="nav">
           <li>
             <a href="./dashboard.php">
-              <i class="now-ui-icons design_app"></i>
-              <p>Dashboard</p>
+              <i class="now-ui-icons business_chart-pie-36"></i>
+              <p>Relatórios Gerais</p>
             </a>
           </li>
           <li>
             <a href="./icons.php">
-              <i class="now-ui-icons education_atom"></i>
-              <p>Icons</p>
+              <i class="now-ui-icons business_chart-bar-32"></i>
+              <p>Relatórios Financeiros</p>
             </a>
           </li>
           <li class="active ">
             <a href="./map.php">
-              <i class="now-ui-icons location_map-big"></i>
-              <p>Maps</p>
+              <i class="now-ui-icons sport_user-run"></i>
+              <p>Relatórios Alunos</p>
             </a>
           </li>
           <li>
             <a href="./notifications.php">
-              <i class="now-ui-icons ui-1_bell-53"></i>
-              <p>Notifications</p>
+              <i class="now-ui-icons business_badge"></i>
+              <p>Relatórios Funcionários</p>
             </a>
           </li>
           <li>
-            <a href="./user.php">
-              <i class="now-ui-icons users_single-02"></i>
-              <p>User Profile</p>
+            <a href="./gastos.php">
+              <i class="now-ui-icons business_money-coins"></i>
+              <p>Cadastrar Gastos</p>
             </a>
           </li>
           <li>
             <a href="./tables.php">
-              <i class="now-ui-icons design_bullet-list-67"></i>
+              <i class="now-ui-icons business_chart-bar-32"></i>
               <p>Table List</p>
             </a>
           </li>
           <li>
             <a href="./typography.php">
-              <i class="now-ui-icons text_caps-small"></i>
+              <i class="now-ui-icons business_chart-pie-36"></i>
               <p>Typography</p>
+            </a>
+          </li>
+          <li>
+            <a href="../../index.php">
+              <i class="now-ui-icons ui-1_simple-remove"></i>
+              <p>Sair</p>
             </a>
           </li>
         </ul>

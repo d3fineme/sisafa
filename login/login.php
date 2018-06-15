@@ -24,7 +24,6 @@
 					<section id="main">
 						<header>
 							<span><img src="images/avatar.png" alt="" /></span>
-							<p>Login</p>
 						</header>
 						
 						<form method="post" action="#">
